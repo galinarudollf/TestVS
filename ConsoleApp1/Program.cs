@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo, alle!");
+            Console.WriteLine("Noch eine Ausgabe");
         }
     }
 }
